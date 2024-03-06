@@ -14,7 +14,7 @@ const App = () => {
             <Image source={require('./assets/menu_white.png')} style={{ width: 25, height: 25, opacity: 0.8 }} />
             <View style={{ flex: 1, alignItems: 'flex-end', marginRight: 10 }}>
               <Text style={{ fontFamily: 'Poppins', fontSize: 14, color: 'white' }}>RM99892 | RM551325</Text>
-              <Text style={{ fontFamily: 'Poppins', fontSize: 10, color: 'white' }}>Livia Freitas & Renato Romeu</Text>
+              <Text style={{ fontFamily: 'Poppins', fontSize: 8, color: 'white' }}>Livia Freitas Ferreira & Renato Sanches Russano Rome</Text>
             </View>
             <View style={{ borderWidth: 1, borderColor: '#f55b5a', borderRadius: 9 }}>
               <Image
