@@ -17,8 +17,8 @@
 
 > • refactor: alterações que não alteram a funcionalidade do código
 
-> RM: 099892 - Livia Freitas
+> RM: 099892 - Livia Freitas Ferreira
 
-> RM: 551325 - Renato Romeu
+> RM: 551325 - Renato Sanches Russano Romeu
 
 ## 🦄 The Unicorn Cake Company
